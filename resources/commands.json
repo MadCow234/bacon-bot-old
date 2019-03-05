@@ -1,0 +1,11 @@
+{
+    "config": true,
+    "del": true,
+    "help": true,
+    "ics": true,
+    "kick": true,
+    "leave": true,
+    "points": true,
+    "reload": true,
+    "strikes": true
+}

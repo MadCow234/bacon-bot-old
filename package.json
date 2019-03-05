@@ -1,0 +1,18 @@
+{
+  "name": "baconbot",
+  "version": "1.0.0",
+  "description": "Tools for the Bacon Palace.",
+  "main": "baconbot.js",
+  "dependencies": {
+    "discord.js": "git+https://github.com/hydrabolt/discord.js.git",
+    "pako": "^1.0.6",
+    "sqlite": "^2.9.0",
+    "winston": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MadCow234",
+  "license": "ISC"
+}

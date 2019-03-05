@@ -1,0 +1,11 @@
+{
+    "prefix": "bb-",
+    "generalChannelID": "386850054402473994",
+    "modRoleName": "@ops",
+    "baseColor": "f94180",
+    "monitorPoints": true,
+    "testing": true,
+    "readyEmbed": {
+        "color": true
+    }
+}
